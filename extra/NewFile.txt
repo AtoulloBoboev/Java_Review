@@ -1,0 +1,7 @@
+#Evis asked for the comment!
+#Thu Jul 21 13:40:25 EDT 2022
+School=Neotech
+StudentNumber=N123
+FirstName=John
+LastName=Legend
+Age=40
